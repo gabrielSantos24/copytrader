@@ -1,0 +1,7 @@
+/target/
+/results/
+/docs/rithmic/
+/tmp/
+.env
+.env.*
+!.env.example
